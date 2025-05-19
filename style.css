@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'Georgia', serif;
+    background: linear-gradient(to bottom, #fce4ec, #fffaf0);
+    color: #5e4b3c;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    background: #f8e1f4;
+    padding: 1em;
+}
+.logo {
+    width: 100px;
+    border-radius: 50%;
+}
+.slogan {
+    font-style: italic;
+    color: #a67b5b;
+}
+nav {
+    background: #ffe6f0;
+    padding: 0.5em;
+    text-align: center;
+}
+nav a {
+    margin: 0 1em;
+    text-decoration: none;
+    color: #b37a4d;
+    font-weight: bold;
+}
+section {
+    padding: 2em;
+    border-bottom: 1px dashed #d2a679;
+}
+footer {
+    background: #fce4ec;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9em;
+    color: #7d5a4f;
+}
+.product {
+    background: #fff8f2;
+    border: 1px solid #f3d6c0;
+    margin: 1em 0;
+    padding: 1em;
+    border-radius: 12px;
+}
